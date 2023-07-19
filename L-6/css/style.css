@@ -1,0 +1,21 @@
+body {
+  padding: 10%;
+  font-size: 2rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* input,
+button {
+  font: inherit;
+} */
+
+p {
+  text-decoration: line-through;
+  text-transform: none;
+  text-align: justify;
+  text-indent: 2em;
+  line-height: 1.5;
+  letter-spacing: 0.1rem;
+  font-weight: bolder;
+  font-style: oblique;
+}
