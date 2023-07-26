@@ -109,6 +109,11 @@ a:visited {
   color: #fff;
 }
 
+a:hover {
+  color: #000;
+  background-color: #fff;
+}
+
 .social {
   background-color: royalblue;
   color: #fff;
