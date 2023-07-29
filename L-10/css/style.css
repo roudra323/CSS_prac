@@ -46,6 +46,7 @@ li a {
   color: #333;
   padding: 0.5rem;
 }
+/*sudo class*/
 
 li a:hover,
 li a:focus {
